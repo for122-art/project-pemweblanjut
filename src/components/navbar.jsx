@@ -38,8 +38,8 @@ function Navbar() {
 
       {/* OPENING HOURS */}
 <div className="opening-hours">
-  <h4>Opening Hours</h4>
-  <p>Senin - Jumat: 08.00 - 22.00</p>
+  <h4>Always Open</h4>
+  <p>Buka setiap hari dari jam 08.00 - 17.00</p>
 </div>
 
     </nav>

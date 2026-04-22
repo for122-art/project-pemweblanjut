@@ -39,7 +39,7 @@ function Navbar() {
       {/* OPENING HOURS */}
 <div className="opening-hours">
   <h4>Always Open</h4>
-  <p>Buka setiap hari dari jam 08.00 - 17.00</p>
+  <p>On 08.00 - 17.00</p>
 </div>
 
     </nav>

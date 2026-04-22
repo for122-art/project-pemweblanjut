@@ -4,10 +4,10 @@ import Product from './components/product'
 import Footer from "./components/footer";
 import Hero from "./components/hero";
 import { useState } from 'react'
-import product1 from './assets/1.JPEG'
-import product2 from './assets/2.JPEG'
-import product3 from './assets/3.JPEG'
-import product4 from './assets/4.JPEG'
+import product1 from './assets/1.jpeg'
+import product2 from './assets/2.jpeg'
+import product3 from './assets/3.jpeg'
+import product4 from './assets/4.jpeg'
 import './App.css'
 
 function App() {
